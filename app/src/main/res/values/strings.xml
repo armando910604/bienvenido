@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HOLA MUNDO INTERACTIVO</string>
+    <string name="action_settings">Settings</string>
+    <string name="enviar">ENVIAR DATOS</string>
+    <string name="Bienvenido">Bienvenido usuario</string>
+    <string name="title_activity_mensaje">MENSAJE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidop">Apellido Paterno</string>
+    <string name="apellidom">Apellido Materno</string>
+
+</resources>
